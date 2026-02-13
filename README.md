@@ -31,8 +31,7 @@ This project implements a complete information retrieval pipeline for ranking an
 │ ├── preprocessing.py           # Text preprocessing utilities
 │ ├── retrieval.py               # Retrieval model implementations
 │ └── evaluation.py              # Evaluation metrics
-├── data/
-│ └── README.md
+├── README.md
 └── requirements.txt
 ```
 
