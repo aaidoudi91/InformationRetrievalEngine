@@ -20,7 +20,7 @@ This project implements a complete information retrieval pipeline for ranking an
 - Average query length: ~48 characters
 
 ## Project Structure
-
+```
 ├── notebooks/
 │ ├── 01_data_exploration.ipynb  # Dataset analysis and preprocessing
 │ ├── 02_tfidf_bm25.ipynb        # Classical retrieval methods
@@ -34,6 +34,7 @@ This project implements a complete information retrieval pipeline for ranking an
 ├── data/
 │ └── README.md
 └── requirements.txt
+```
 
 ## Technologies Used
 
