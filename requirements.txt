@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+rank-bm25
+sentence-transformers
+torch
+umap-learn
+matplotlib
+seaborn
+tqdm
+gdown
