@@ -47,6 +47,6 @@ This project implements a complete information retrieval pipeline for ranking an
 
 ## Contributors
 
-Aaron Aidoudi - M1 Artificial Intelligence, Université Paris Cité
+Aaron Aidoudi - M1 Distributed Artificial Intelligence, Université Paris Cité
 
 Supervised by Prof. Themis Palpanas & Manos Chatzakis
